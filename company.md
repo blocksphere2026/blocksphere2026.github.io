@@ -26,7 +26,7 @@ Bank Indonesia, Bank BNI, Bank BRI, Bank BCA, Pegadaian, Kominfo, Peruri, Biido,
 - Architected and deployed public blockchains listed on major explorers — including Indonesia's CBDC prototypes.
 - Engineered and audited multiple full digital asset exchanges serving thousands of traders.
 - Trusted by banks, telcos, and state-owned enterprises to future-proof critical infrastructure.
-- Weekly national broadcast puts clients and partners in front of Indonesia's top tech decision-makers.
+- National show with Bloomberg Technoz puts clients and partners in front of Indonesia's top tech decision-makers.
 
 ## Services
 
