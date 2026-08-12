@@ -19,8 +19,8 @@
     "mission": "Blocksphere bridges boardroom ambition and production-grade decentralization. We combine enterprise discipline with blockchain, Web3, and AI to deliver digital sovereignty solutions that scale, secure, and last.",
     "ctaPrimary": "Let's talk blockchain",
     "ctaSecondary": "hello@blocksphere.id",
-    "image": "assets/blocksphere/hero4.jpg",
-    "bg": "assets/blocksphere/herobg.png"
+    "image": "assets/blocksphere/hero4-editorial.webp",
+    "bg": "assets/blocksphere/herobg-editorial.webp"
   },
   "partners": {
     "title": "Trusted across Indonesia",
@@ -209,8 +209,7 @@
       "Tokenomics design",
       "Smart contract auditing"
     ],
-    "image": "assets/blocksphere/service.png",
-    "robot": "assets/blocksphere/robot1.png"
+    "image": "assets/blocksphere/services-editorial.webp"
   },
   "sectors": {
     "title": "Industries we serve",
@@ -273,15 +272,15 @@
     "tags": [
       {
         "label": "National Broadcast",
-        "icon": "YT"
+        "icon": "TV"
       },
       {
         "label": "Tech Insights",
-        "icon": "🎙️"
+        "icon": "AI"
       },
       {
         "label": "Policy & Innovation",
-        "icon": "🏛️"
+        "icon": "ID"
       }
     ]
   },
@@ -315,14 +314,14 @@
       {
         "name": "Gilang Bhagaskara",
         "role": "Managing Director",
-        "image": "assets/blocksphere/team1.jpg",
+        "image": "assets/blocksphere/team1-editorial.webp",
         "bio": "Visionary leader with over 9 years driving blockchain adoption across Indonesia's enterprise landscape. Expert at turning regulatory complexity into strategic opportunity — committed to digital sovereignty and mainstream blockchain utility.",
         "linkedin": "https://www.linkedin.com/in/gilang-bhagaskara/"
       },
       {
         "name": "Pandu Sastrowardoyo",
         "role": "Director",
-        "image": "assets/blocksphere/team2.jpg",
+        "image": "assets/blocksphere/team2-editorial.webp",
         "bio": "Entrepreneur, blockchain consultant, and serial innovator at the intersection of business, technology, and decentralization. AI and blockchain architect with deep experience in decentralized systems, bioinformatics, and enterprise strategy — MIT Professional Certificate in AI/ML. Co-founded Blockchain Zoo and the Indonesian Blockchain Association; hosts Bloomberg Technoz, bringing deep tech into mainstream business conversation.",
         "linkedin": "https://linkedin.com/in/decentricity",
         "badge": "assets/blocksphere/bloomberg-technoz-logo.jpg",
@@ -331,7 +330,7 @@
       {
         "name": "Jean Daniel Gauthier",
         "role": "Blockchain Expert",
-        "image": "assets/blocksphere/team3.jpg",
+        "image": "assets/blocksphere/team3-editorial.webp",
         "bio": "Technical architect and business analyst bridging smart contract development with commercial viability. Leads intricate blockchain projects with precision — translating visionary concepts into scalable decentralized applications.",
         "linkedin": "https://www.linkedin.com/in/jean-daniel-gauthier/"
       }
@@ -342,21 +341,11 @@
     "sub": "Drop us a message and let's turn your blockchain vision into production reality.",
     "cta": "Email Blocksphere",
     "email": "hello@blocksphere.id",
-    "image": "assets/blocksphere/connected.png",
+    "image": "assets/blocksphere/connected-editorial.webp",
     "note": "Remote-first · HQ in Jakarta SCBD"
   },
   "footer": {
     "copy": "© 2017–2026 Blocksphere Indonesia. All rights reserved."
   },
-  "tickerPhrases": [
-    "BLOCKSPHERE",
-    "SHIPPING SINCE 2017",
-    "ENTERPRISE LEDGERS",
-    "RWA · PRIVACY · EXCHANGES",
-    "CUSTOM CHAINS",
-    "TOKENOMICS",
-    "SMART CONTRACT AUDITS",
-    "@blocksphere.id"
-  ],
   "portfolioUrl": "https://portfolio.blocksphere.id/"
 }
