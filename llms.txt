@@ -1,0 +1,19 @@
+# Blocksphere
+
+> Blocksphere bridges boardroom ambition and production-grade decentralization. We combine enterprise discipline with blockchain, Web3, and AI to deliver digital sovereignty solutions that scale, secure, and last.
+
+Blocksphere is PT Blocksphere Teknoniaga Indonesia, an enterprise blockchain consulting and development company shipping production systems since 2017.
+
+## Company information
+
+- [Interactive company site](https://blocksphere2026.github.io/): Services, industries, recognition, media, client voices, and leadership.
+- [Complete company text](https://blocksphere2026.github.io/company.md): The complete public company-site content in Markdown.
+- [Full LLM context](https://blocksphere2026.github.io/llms-full.txt): The complete company-site content as plain text.
+- [Company JSON](https://blocksphere2026.github.io/company.json): Structured public company-site data.
+- [Project portfolio](https://portfolio.blocksphere.id/): Detailed project writeups and archive.
+- [Sitemap](https://blocksphere2026.github.io/sitemap.xml): Canonical machine-readable endpoints.
+
+## Contact
+
+- [Blocksphere corporate domain](https://blocksphere.id/)
+- Email: hello@blocksphere.id

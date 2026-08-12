@@ -1,0 +1,362 @@
+{
+  "schemaVersion": "1.0",
+  "canonicalUrl": "https://blocksphere2026.github.io/",
+  "company": {
+    "name": "Blocksphere",
+    "legal": "PT Blocksphere Teknoniaga Indonesia",
+    "tagline": "Shipping blockchain since 2017.",
+    "email": "hello@blocksphere.id",
+    "site": "https://blocksphere.id/",
+    "address": "Equity Tower 35th Floor (Marquee), SCBD Lot 9, Jl Jend Sudirman Kav 52-53, Jakarta, 12190, Indonesia",
+    "social": "@blocksphere.id",
+    "linkedin": "https://www.linkedin.com/company/blocksphere-indonesia/"
+  },
+  "hero": {
+    "eyebrow": "Enterprise Blockchain Consulting",
+    "title": "Blocksphere",
+    "line": "Shipping blockchain since 2017.",
+    "sub": "Enterprise-grade blockchain solutions that turn bold visions into production-ready reality.",
+    "mission": "Blocksphere bridges boardroom ambition and production-grade decentralization. We combine enterprise discipline with blockchain, Web3, and AI to deliver digital sovereignty solutions that scale, secure, and last.",
+    "ctaPrimary": "Let's talk blockchain",
+    "ctaSecondary": "hello@blocksphere.id",
+    "image": "assets/blocksphere/hero4.jpg",
+    "bg": "assets/blocksphere/herobg.png"
+  },
+  "partners": {
+    "title": "Trusted across Indonesia",
+    "sub": "Proud to partner with government institutions, major financial services, and innovative startups shaping the digital economy.",
+    "logos": [
+      {
+        "name": "Bank Indonesia",
+        "file": "assets/brand/bi-bw.png"
+      },
+      {
+        "name": "Bank BNI",
+        "file": "assets/brand/bni-bw.png"
+      },
+      {
+        "name": "Bank BRI",
+        "file": "assets/brand/bri-bw.png"
+      },
+      {
+        "name": "Bank BCA",
+        "file": "assets/brand/bca-bw.png"
+      },
+      {
+        "name": "Pegadaian",
+        "file": "assets/brand/pegadaian-bw.png"
+      },
+      {
+        "name": "Kominfo",
+        "file": "assets/brand/kominfo-bw.png"
+      },
+      {
+        "name": "Peruri",
+        "file": "assets/brand/peruri-bw.png"
+      },
+      {
+        "name": "Biido",
+        "file": "assets/brand/biido-bw.png"
+      },
+      {
+        "name": "Angkasa Pura II",
+        "file": "assets/brand/ap-bw.png"
+      },
+      {
+        "name": "Igrow",
+        "file": "assets/brand/igrow-bw.png"
+      }
+    ]
+  },
+  "awards": {
+    "title": "Grants & Awards",
+    "sub": "Recognition and funding that fuel our R&D and the ecosystems we help build.",
+    "items": [
+      {
+        "text": "Secured funding from UN SDG Impact Fund, ETHDenver, Web3 Foundation / Polkadot, and NEAR — powering R&D like RealityChain."
+      },
+      {
+        "text": "Helped startups and enterprises secure multi-million-dollar rounds via tokens, equity, and hybrid models."
+      },
+      {
+        "text": "Architected and deployed public blockchains listed on major explorers — including Indonesia's CBDC prototypes."
+      },
+      {
+        "text": "Engineered and audited multiple full digital asset exchanges serving thousands of traders."
+      },
+      {
+        "text": "Trusted by banks, telcos, and state-owned enterprises to future-proof critical infrastructure."
+      },
+      {
+        "text": "Weekly national broadcast puts clients and partners in front of Indonesia's top tech decision-makers."
+      }
+    ]
+  },
+  "services": {
+    "title": "What we do",
+    "sub": "Comprehensive blockchain consulting, development, and training — built to transform industries across Indonesia.",
+    "intro": "We offer blockchain consulting, development, and IT services to transform your business with cutting-edge technology.",
+    "pillars": [
+      {
+        "id": "consulting",
+        "title": "Blockchain Consulting",
+        "blurb": "Strategy, economics, and compliance — from roadmap to rollout.",
+        "items": [
+          {
+            "name": "Blockchain Strategy Consulting",
+            "desc": "Technology roadmaps, use-case analysis, and implementation planning for enterprises."
+          },
+          {
+            "name": "Tokenomics Design",
+            "desc": "Economic models for tokens, incentive structures, and sustainable ecosystem development."
+          },
+          {
+            "name": "Smart Contract Auditing",
+            "desc": "Security audits and vulnerability assessments to protect your smart contracts."
+          },
+          {
+            "name": "Regulatory & Compliance",
+            "desc": "Navigate blockchain regulations and align with local and international frameworks."
+          },
+          {
+            "name": "Blockchain Feasibility Analysis",
+            "desc": "Validate ideas before you build — technical, economic, and organizational fit."
+          },
+          {
+            "name": "Token Utility Design",
+            "desc": "Design token mechanics that drive real adoption, not just speculation."
+          }
+        ]
+      },
+      {
+        "id": "development",
+        "title": "Blockchain Development",
+        "blurb": "From smart contracts to custom chains — production code that ships.",
+        "items": [
+          {
+            "name": "Custom Chain Development",
+            "desc": "Modular enterprise blockchain infrastructure with low gas costs, interoperability, and scale."
+          },
+          {
+            "name": "Smart Contract Development",
+            "desc": "Secure contracts for DeFi, NFTs, DAOs, and enterprise use cases."
+          },
+          {
+            "name": "Tokenization Services",
+            "desc": "Fractional ownership, RWA rails, and automated distribution on-chain."
+          },
+          {
+            "name": "Blockchain & ERP Integration",
+            "desc": "Connect blockchain systems to SAP, Oracle, Odoo, and other enterprise platforms."
+          },
+          {
+            "name": "Web3 Migration",
+            "desc": "Seamless migration from traditional platforms to Web3 infrastructure."
+          },
+          {
+            "name": "NFT & Digital Assets",
+            "desc": "Marketplaces, collections, and tokenization platforms for creative industries."
+          }
+        ]
+      },
+      {
+        "id": "training",
+        "title": "Training & Upskilling",
+        "blurb": "Bring your team up to speed — executives to engineers.",
+        "items": [
+          {
+            "name": "Team Upskilling",
+            "desc": "Hands-on blockchain development and implementation workshops for every skill level."
+          },
+          {
+            "name": "In-House Blockchain Bootcamp",
+            "desc": "Intensive, hands-on blockchain development training for your engineering team."
+          },
+          {
+            "name": "Executive Web3 Training",
+            "desc": "Non-technical training on Web3 strategy for founders and C-suite decision-makers."
+          },
+          {
+            "name": "Blockchain Leadership Training",
+            "desc": "Leadership programs designed for executives navigating digital transformation."
+          }
+        ]
+      },
+      {
+        "id": "ai",
+        "title": "AI & Emerging Tech",
+        "blurb": "Where AI meets on-chain — agents, analytics, and strategy.",
+        "items": [
+          {
+            "name": "AI Strategy & Consulting",
+            "desc": "AI agents on smart contracts, on-chain analytics, and decentralized AI infrastructure."
+          },
+          {
+            "name": "Risk Management & IT Security Audit",
+            "desc": "Enterprise-grade security reviews for blockchain and hybrid systems."
+          },
+          {
+            "name": "Technology Modernization",
+            "desc": "Digital strategy consulting to modernize enterprise technology stacks."
+          }
+        ]
+      }
+    ],
+    "highlight": [
+      "Custom chain development",
+      "Blockchain strategy consulting",
+      "Team upskilling",
+      "Tokenomics design",
+      "Smart contract auditing"
+    ],
+    "image": "assets/blocksphere/service.png",
+    "robot": "assets/blocksphere/robot1.png"
+  },
+  "sectors": {
+    "title": "Industries we serve",
+    "sub": "Since 2017, we've delivered blockchain solutions across six key sectors — deep industry knowledge with platform-agnostic expertise.",
+    "items": [
+      {
+        "name": "Financial Services",
+        "desc": "Next-gen financial infrastructure for traditional and Web3-native institutions — transparency, security, and regulatory compliance."
+      },
+      {
+        "name": "Government & Legal",
+        "desc": "Secure blockchain systems for public services, digital identity, e-voting, and fraud reduction."
+      },
+      {
+        "name": "Supply Chain & ESG",
+        "desc": "Full traceability and accountability from source to consumer — including e-waste and carbon tracking."
+      },
+      {
+        "name": "Healthcare & Bioinformatics",
+        "desc": "Privacy-first health systems with secure medical data access and confidential computing."
+      },
+      {
+        "name": "Real Estate & RWA",
+        "desc": "Property tokenization with fractional ownership and automated rental income distribution."
+      },
+      {
+        "name": "Energy & Sustainability",
+        "desc": "Energy trading, carbon credit tokenization, and smart meter integration for decentralized management."
+      }
+    ]
+  },
+  "impact": {
+    "title": "Impact stories",
+    "sub": "How we work with associations, startups, and enterprises across Indonesia.",
+    "pillars": [
+      {
+        "title": "Support for Indonesia's Blockchain Adoption",
+        "blurb": "We've partnered with leading associations to shape national blockchain standards, spark dialogue, and strengthen collaboration across sectors."
+      },
+      {
+        "title": "Startups and SMBs",
+        "blurb": "From idea to launch, we've been in the trenches with startups — solving real challenges, building trust, and helping them shine for users and investors."
+      },
+      {
+        "title": "Scaling with Enterprise Partners",
+        "blurb": "We collaborate with top enterprises to build secure, scalable, future-ready blockchain solutions — from infrastructure transformation to regulatory alignment."
+      }
+    ]
+  },
+  "media": {
+    "eyebrow": "Media Partnership",
+    "title": "Shaping Indonesia's",
+    "titleAccent": "Tech Future",
+    "titleSuffix": "with Bloomberg Technoz",
+    "lead": "Catch this pivotal episode of Bloomberg Technoz, hosted by Blocksphere Director Pandu Sastrowardoyo, featuring CEO Gilang Bhagaskara and key voices from Otoritas Jasa Keuangan (OJK).",
+    "sub": "Each week, we unpack AI and Web3 shifts that matter to Indonesia's digital economy — showcasing the builders, regulators, and innovators driving transformation across the archipelago.",
+    "videoId": "IyrEvv8BaCU",
+    "videoTitle": "Bloomberg Technoz — Blocksphere CEO Interview",
+    "badge": "assets/blocksphere/bloomberg-technoz-logo.jpg",
+    "tags": [
+      {
+        "label": "National Broadcast",
+        "icon": "YT"
+      },
+      {
+        "label": "Tech Insights",
+        "icon": "🎙️"
+      },
+      {
+        "label": "Policy & Innovation",
+        "icon": "🏛️"
+      }
+    ]
+  },
+  "testimonials": [
+    {
+      "quote": "Blocksphere has played a pivotal role in the growth of Indonesia's blockchain ecosystem. Their commitment to innovation, education, and collaboration has helped bridge the gap between industry and regulators, driving real impact across the sector.",
+      "name": "Asih Karnengsih",
+      "role": "Chairwoman, Asosiasi Blockchain Indonesia",
+      "initials": "AK",
+      "tag": "ABI"
+    },
+    {
+      "quote": "Blocksphere has been a valuable tech partner for us at Ecoberingin. Their blockchain expertise helped us build trust and transparency in e-waste tracking — something that's been a game changer for our clients and regulatory partners.",
+      "name": "Widodo Goenanto",
+      "role": "CEO, EcoBeringin",
+      "initials": "EB",
+      "tag": "SMB"
+    },
+    {
+      "quote": "Blocksphere has consistently delivered strategic insight and deep technical expertise that align with the needs of enterprise-scale projects. Their contribution to blockchain adoption in Indonesia, especially within regulated industries, has been outstanding.",
+      "name": "Oscar Darmawan",
+      "role": "CEO, Indodax Crypto Exchange",
+      "initials": "OD",
+      "tag": "Enterprise"
+    }
+  ],
+  "team": {
+    "title": "Leadership",
+    "sub": "The visionary leaders driving Indonesia's blockchain transformation through strategic expertise and innovative solutions.",
+    "members": [
+      {
+        "name": "Gilang Bhagaskara",
+        "role": "Managing Director",
+        "image": "assets/blocksphere/team1.jpg",
+        "bio": "Visionary leader with over 9 years driving blockchain adoption across Indonesia's enterprise landscape. Expert at turning regulatory complexity into strategic opportunity — committed to digital sovereignty and mainstream blockchain utility.",
+        "linkedin": "https://www.linkedin.com/in/gilang-bhagaskara/"
+      },
+      {
+        "name": "Pandu Sastrowardoyo",
+        "role": "Director",
+        "image": "assets/blocksphere/team2.jpg",
+        "bio": "Entrepreneur, blockchain consultant, and serial innovator at the intersection of business, technology, and decentralization. AI and blockchain architect with deep experience in decentralized systems, bioinformatics, and enterprise strategy — MIT Professional Certificate in AI/ML. Co-founded Blockchain Zoo and the Indonesian Blockchain Association; hosts Bloomberg Technoz, bringing deep tech into mainstream business conversation.",
+        "linkedin": "https://linkedin.com/in/decentricity",
+        "badge": "assets/blocksphere/bloomberg-technoz-logo.jpg",
+        "featured": true
+      },
+      {
+        "name": "Jean Daniel Gauthier",
+        "role": "Blockchain Expert",
+        "image": "assets/blocksphere/team3.jpg",
+        "bio": "Technical architect and business analyst bridging smart contract development with commercial viability. Leads intricate blockchain projects with precision — translating visionary concepts into scalable decentralized applications.",
+        "linkedin": "https://www.linkedin.com/in/jean-daniel-gauthier/"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Let's build together",
+    "sub": "Drop us a message and let's turn your blockchain vision into production reality.",
+    "cta": "Email Blocksphere",
+    "email": "hello@blocksphere.id",
+    "image": "assets/blocksphere/connected.png",
+    "note": "Remote-first · HQ in Jakarta SCBD"
+  },
+  "footer": {
+    "copy": "© 2017–2026 Blocksphere Indonesia. All rights reserved."
+  },
+  "tickerPhrases": [
+    "BLOCKSPHERE",
+    "SHIPPING SINCE 2017",
+    "ENTERPRISE LEDGERS",
+    "RWA · PRIVACY · EXCHANGES",
+    "CUSTOM CHAINS",
+    "TOKENOMICS",
+    "SMART CONTRACT AUDITS",
+    "@blocksphere.id"
+  ],
+  "portfolioUrl": "https://portfolio.blocksphere.id/"
+}
